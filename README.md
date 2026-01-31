@@ -21,9 +21,10 @@ Before running the tests, ensure you have the following installed:
 
 ## Installation
 
-### Step 1: Clone or Download the Repository
+### Clone or Download the Repository
 
 - If you have the project as a zip file, extract it.
+- Open it in VScode
 
 ### Install Dependencies: Install the Playwright framework and necessary browser binaries by running
 
